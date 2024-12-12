@@ -1,8 +1,1 @@
-fastapi
-uvicorn
-numpy
-scikit-learn
-joblib
-torchaudio
-speechbrain
-python-multipart
+git+https://github.com/speechbrain/speechbrain.git@develop
